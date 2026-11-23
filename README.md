@@ -41,8 +41,11 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Brokyzadaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=070a14&title_color=8fb0ff&icon_color=2f6bff&text_color=e2e8f8" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brokyzadaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=070a14&title_color=8fb0ff&text_color=e2e8f8" />
+<img src="https://streak-stats.demolab.com/?user=Brokyzadaaa&theme=tokyonight&hide_border=true&background=070a14&stroke=2f6bff&ring=2f6bff&fire=8fb0ff&currStreakLabel=8fb0ff" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brokyzadaaa&bg_color=070a14&color=8fb0ff&line=2f6bff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
